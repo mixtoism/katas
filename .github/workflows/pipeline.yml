@@ -3,7 +3,7 @@ name: Pylint
 on: [push]
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,7 +19,7 @@ jobs:
     - name: Run tests
       run: |
         python -m unittest discover
-        coverage -m unittest discover
+        coverage run -m unittest discover
         coverage xml
     - uses: codecov/codecov-action@v1
       with:
