@@ -11,8 +11,8 @@ Here are some TDD Katas I've been doing
 
 ## List
 * [Naughty or Nice](naughty_or_nice)
-* [Duplicate Encoder](duplicate_encoder/README.md)
-* [Unique in Order](unique_in_order/README.md)
+* [Duplicate Encoder](duplicate_encoder)
+* [Unique in Order](unique_in_order)
 
 ## Note
 
