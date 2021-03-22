@@ -19,3 +19,6 @@ class TestDuplicateEncoder(unittest.TestCase):
     def test_should_be_case_insensitive(self):
         self.assertEqual(duplicate_encoder("Aa"), "))")
 
+    def test_empty_string_should_return_empty(self):
+        self.assertEqual(duplicate_encoder(""), "")
+
