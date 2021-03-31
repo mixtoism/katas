@@ -14,7 +14,7 @@ Here are some TDD Katas I've been doing
 * [Duplicate Encoder](duplicate_encoder)
 * [Unique in Order](unique_in_order)
 * [Create Phone Number](create_phone_number)
-
+* [Counting Sheeps](counting_sheep)
 ## Note
 
 In this repo, some test might look redundant, but I generally keep them in order to show the process of the design rather than implementing proper TDD
