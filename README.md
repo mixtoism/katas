@@ -13,6 +13,7 @@ Here are some TDD Katas I've been doing
 * [Naughty or Nice](naughty_or_nice)
 * [Duplicate Encoder](duplicate_encoder)
 * [Unique in Order](unique_in_order)
+* [Create Phone Number](create_phone_number)
 
 ## Note
 
